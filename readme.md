@@ -101,19 +101,6 @@ CodeAlpha_DataVisualization_Global_Layoffs/
 └── images/
 ```
 
----
-
-## Requirements
-
-```text
-pandas
-numpy
-matplotlib
-seaborn
-```
-
----
-
 ## Author
 
 **Syed Sameena Tasleem**
