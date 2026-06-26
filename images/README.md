@@ -1,1 +1,1 @@
-This folder contains all visualization charts generated for 
+This folder contains all visualization charts generated for GLOBAL LAYOFFS
