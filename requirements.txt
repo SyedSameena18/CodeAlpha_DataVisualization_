@@ -1,0 +1,4 @@
+Pandas – Used for data loading, cleaning, manipulation, and analysis.
+NumPy – Provides efficient numerical operations and array computations.
+Matplotlib – Used to create static charts and graphs for data visualization.
+Seaborn – Built on Matplotlib to create attractive and informative statistical visualizations.
